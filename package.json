@@ -10,7 +10,9 @@
   "bin": {
     "gitignore": "./bin/gitignore.js"
   },
-  "dependencies": {},
+  "dependencies": {
+    "p-each-series": "^2.1.0"
+  },
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
