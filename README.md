@@ -2,6 +2,8 @@
 
 Automatically fetch github's excellent `.gitignore` files for any of your new projects
 
+Forked from [https://github.com/msfeldstein/gitignore](https://github.com/msfeldstein/gitignore)
+
 [Here is the list of available types](https://github.com/github/gitignore)
 
 ## Use as a global utility
@@ -9,8 +11,8 @@ Automatically fetch github's excellent `.gitignore` files for any of your new pr
 ### Install
 
     npm install gitignore -g
-    
-Note: If **[NPX](https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner)** (NPM's official package runner) is available in your environment you can use it to avoid a global install: ex. ```$ npx gitignore node``` is equivalent to ```npm i -g gitignore && gitignore node``` but avoids the global install step
+
+Note: If **[NPX](https://blog.npmjs.org/post/162869356040/introducing-npx-an-npm-package-runner)** (NPM's official package runner) is available in your environment you can use it to avoid a global install: ex. `$ npx gitignore node` is equivalent to `npm i -g gitignore && gitignore node` but avoids the global install step
 
 ### Usage
 

@@ -1,10 +1,10 @@
 {
-  "author": "Michael Feldstein",
-  "name": "gitignore",
+  "author": "Mike Farrow",
+  "name": "gitignore-generator",
   "description": "Automatically fetch gitignore files for any project type from github into your new project",
-  "version": "0.5.0",
+  "version": "0.1.0",
   "repository": {
-    "url": "https://github.com/msfeldstein/gitignore"
+    "url": "https://github.com/michaelfarrow/gitignore"
   },
   "main": "./lib/library.js",
   "bin": {
