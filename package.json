@@ -1,6 +1,6 @@
 {
   "author": "Mike Farrow",
-  "name": "gitignore-generator",
+  "name": "gitignore-generate",
   "description": "Automatically fetch gitignore files for any project type from github into your new project",
   "version": "0.1.0",
   "repository": {
